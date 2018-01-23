@@ -52,3 +52,4 @@ public class a7DihlanOrtega {
         return highScore;
     }
 }
+
