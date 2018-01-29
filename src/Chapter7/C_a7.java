@@ -62,10 +62,3 @@ public class C_a7 {
         return highScore;
     }
 }
-
-
-
-
-
-
-
