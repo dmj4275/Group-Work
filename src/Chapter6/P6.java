@@ -9,7 +9,11 @@ import java.util.Scanner;
 
 public class P6 {
     public static void main(String[] args){
-         Scanner input = new Scanner(System.in);  
+         /**
+     * Main Method
+     *
+     * @param args arguments from command line prompt
+     */Scanner input = new Scanner(System.in);  
           /**
      * Main Method
      *
